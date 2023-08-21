@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc743c9c-a26b-413d-8e66-fb49099fb622" name="Changes" comment="subo el main">
+    <list default="true" id="dc743c9c-a26b-413d-8e66-fb49099fb622" name="Changes" comment="subo clases creadas con visual paradigm con sus respectivos constructores">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TiendaElectronica/Producto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TiendaElectronica/Producto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TiendaElectronica/TiendaElectronica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TiendaElectronica/TiendaElectronica.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,11 +55,19 @@
       <option name="project" value="LOCAL" />
       <updated>1692277910046</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="subo clases creadas con visual paradigm con sus respectivos constructores">
+      <created>1692279007227</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1692279007227</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="subo el main" />
-    <option name="LAST_COMMIT_MESSAGE" value="subo el main" />
+    <MESSAGE value="subo clases creadas con visual paradigm con sus respectivos constructores" />
+    <option name="LAST_COMMIT_MESSAGE" value="subo clases creadas con visual paradigm con sus respectivos constructores" />
   </component>
 </project>

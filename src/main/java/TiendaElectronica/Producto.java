@@ -56,4 +56,18 @@ public class Producto {
 		this.precio=precio;
 		this.tiendaElectronica=tiendaElectronica;
 	}
+	public void mostrarInformacion() {
+		System.out.println("Nombre: " + nombre);
+		System.out.println("Descripción: " + descripcion);
+		System.out.println("Categoría: " + categoria);
+		System.out.println("Stock: " + stock);
+		System.out.println("Precio: " + precio);
+	}
+	public void realizarCompra(int cantidad) {
+		if (cantidad <= stock) {
+			stock -= cantidad;
+		} else {
+			System.out.println("No hay suficiente stock disponible.");
+		}
+	}
 }
